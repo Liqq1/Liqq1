@@ -1,13 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=YOLO+-+You+Only+Live+Once)](https://git.io/typing-svg)
 
 
-<div align="left"> 
-  <span style="font-weight: bolder"> About Me</span>
+<div align="display:flex; align-items: center;"> 
+  <span><strong>About Me</strong></span>
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif", 
        id="logo" style="height:30px; width:30px; margin-left:5px" /> 
 </div>
 
- 
+
+  
+  
  
 - 📖 I am a first-year PhD student at Fudan University
 - 🌱 I’m currently learning medical multi-modal
