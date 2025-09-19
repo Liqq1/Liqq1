@@ -11,7 +11,7 @@
   
   
  
-- 📖 I am a third-year PhD student at Fudan University
+- 📖 I am a fourth-year PhD student at Fudan University
 - 🌱 I’m currently learning medical multi-modal
 - 👯 <a href="https://www.zhihu.com/people/superball-15/posts">My Blog Page.</a> Email: qingqiuli0811@gmail.com
 <!-- 
